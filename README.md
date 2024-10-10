@@ -46,5 +46,5 @@ Very well, "Bananas" has been removed from your list!
 Displaying your grocery list:
 1. x Apples
 
-2. - Bananas
+2. - Bananas<br>
 Okay Bye!
