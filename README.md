@@ -1,2 +1,2 @@
 # Grocery-List-Management-System
-Command-line program that manages a virtual grocery list in which users can add, remove, and check off items. 
+This program displays a main menu in which users can choose to create a virtual grocery list. User's may add, remove, and check off items, as well as exit the program once they have checked off all of the items on their list.
